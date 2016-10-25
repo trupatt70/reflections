@@ -13,13 +13,30 @@ What value do you think it offers?
 How can you use the staging area to make sure you have one commit per logical
 change?
 
+  If you add a file to the staging area and run git status it will show if changes
+  were made, if there are no changes to commit then status will show nothing in the
+  staging area to commit.
+
+
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
+  Branches can help if I want to add another an experimental component to a project
+  without affecting the original project.
+
 How do the diagrams help you visualize the branch structure?
+
+  Allows you to see how many branches are there and what they contain
+  as well, if they are reachable are not.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+  You combine all the commits into one branch based on time-stamp. It shows multiple
+  branches that come together as one.
+
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
+
+  It saves time by sorting through the commits and determining what to merge while
+  outputting any conflicts if it is not able to do so. 
