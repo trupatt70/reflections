@@ -13,4 +13,16 @@ Describe the differences between forks, clones, and branches. When would you use
 
   A fork is only used when cloning a repository on GitHub. Cloning is coping repositories
   from one computer to another or directly from GitHub to a local computer. Branching is adding another
-  commit changes separate from the master head to a project. 
+  commit changes separate from the master head to a project.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+  It allows you to add changes to the lasted commit or copy of the project your working on.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+  Without GitHub or some form of version control, more supervision would be required to incorporate changes
+  as well as more time to complete a project. With a version control tool, team members can work independantly
+  without worrying about breaking the project.
+
+ 
