@@ -25,4 +25,9 @@ How would you collaborate without using Git or GitHub? What would be easier, and
   as well as more time to complete a project. With a version control tool, team members can work independantly
   without worrying about breaking the project.
 
- 
+When would you want to make changes in a separate branch rather than directly in master?
+What benefits does each approach have?
+
+  When you are collaborating on a project and you are not sure what alterations others may have made or are
+  making. This allows you to work independently and check what other changes were made and merged before
+  introducing your branch. By doing this, everyone can review changes before committing it to the master.
